@@ -6,7 +6,7 @@
 
 3. Escribe la dirección https://taoxwizard.github.io y nómbrala como "taoxwizard".
 
-4. Acepta pulsando "OK" e ir hasta "Add-ons".
+4. Acepta pulsando "OK" vuelve atrás y ve hasta "Add-ons".
 
 5. En "Add-ons", presiona "Instalar desde un archivo" habilita "Orignes desconocidos" acepta y vuelve "Add-ons".
 
